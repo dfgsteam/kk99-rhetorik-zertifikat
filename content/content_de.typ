@@ -52,3 +52,24 @@ Zusätzlich werde ich in der Prüfungssituation ganz bewusst auf das Pult verzic
 #pagebreak()
 
 = Feedback für Leonie - Meinungsrede
+
+== Körpersprache & Präsenz
+
+Leonie erzielt durch ihre zentrale Position vor der Tafel eine sofortige, starke Präsenz im Raum. Ihr Stand ist weitgehend stabil und beidbeinig geerdet, wenngleich ein leicht rhythmisches Wippen von einem Bein auf das andere eine unterschwellige Anspannung offenbart. Herausragend ist der konstante, verbindliche Blickkontakt zum Publikum. Ihre offene, zweihändige Gestik auf Brusthöhe unterstützt die Argumentation harmonisch, während eine lebendige und freundliche Mimik schnell eine sympathische Zugewandtheit herstellt.
+
+== Artikulation, Stimme & Dynamik
+
+Das Sprechtempo ist moderat und gut nachvollziehbar; Pausen werden gezielt nach Kernaussagen als Strukturierungsmittel eingesetzt. Lediglich bei hoher inhaltlicher Dichte beschleunigt sich der Vortrag vereinzelt leicht. Der Sprechfluss ist flüssig und nahezu frei von Häsitationen wie „Ähm“-Lauten. Dank einer präzisen Artikulation und einer gut gestützten, raumfüllenden Lautstärke wirkt die Stimme durchgehend fest, textangemessen und tragfähig.  Gesamteindruck: Hohe stimmliche Stimmigkeit und rhetorische Überzeugungskraft. 
+
+== Gliederung & Verständlichkeit
+
+Die Makrostruktur folgt einem transparenten, klassischen Gliederungsschema aus Einleitung, Hauptteil und Schluss. Die Satzstruktur ist bewusst kurz, prägnant und parataktisch gehalten, was dem Publikum das auditive Verstehen erleichtert. Durch den Verzicht auf Fachjargon bleibt die Rede einfach und adressatengerecht. Ein gelungener Hörerbezug wird über integrative Pronomen („wir“) und rhetorische Fragen hergestellt, was die Wirksamkeit der Argumente steigert. 
+
+== Vortragsweise & Mediennutzung
+
+Leonie nutzt ein gut strukturiertes Stichwortkonzept auf Moderationskarten. Sie trägt die Rede weitgehend frei vor und meidet das Ablesen von Fließtext. Der Blick wandert nur in kurzen, natürlichen Pausen zur Orientierung nach unten, wodurch der lebendige Charakter der Präsentation vollständig gewahrt bleibt. Die Tafel im Hintergrund dient primär als stimmiger räumlicher Rahmen.
+
+== Inhalte
+- *Ethos*: Durch ihr souveränes Auftreten gelingt eine kompetente Selbstdarstellung, die die Argumentation integer und glaubwürdig macht.  
+- *Pathos*: Der Hörerbezug greift die Relevanz des Themas für die Lebensrealität des Publikums auf und erzeugt emotionale Zugänglichkeit.
+- *Logos*: Die Argumentation ist dialektisch sauber und logisch stringent aufgebaut. Der inhaltliche Anspruch erfüllt das Niveau der Zertifikatsstufe vollständig.  
