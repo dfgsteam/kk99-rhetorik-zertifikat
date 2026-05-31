@@ -1,0 +1,41 @@
+name: Build Typst PDFs
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Typst
+        uses: typst-community/setup-typst@v3
+
+      - name: Compile PDF Documents
+        run: |
+          make build
+          if [ -f example.typ ]; then
+            make build-example
+          fi
+          if [ -f presentation.typ ]; then
+            make build-presentation
+          fi
+
+      - name: Upload PDFs
+        uses: actions/upload-artifact@v4
+        with:
+          name: typst-pdfs
+          path: |
+            main.pdf
+            example.pdf
+            presentation.pdf
+          if-no-files-found: ignore

@@ -1,9 +1,11 @@
-.PHONY: all build dev clean build-example dev-example build-presentation dev-presentation build-all
+.PHONY: all build dev clean build-example dev-example build-presentation dev-presentation build-all setup-hooks
 all: build
 build:
 	typst compile --pdf-standard a-2b --font-path lib/fplneu-otf/ --font-path lib/Noto_Color_Emoji/ main.typ
 dev:
 	typst watch --font-path lib/fplneu-otf/ --font-path lib/Noto_Color_Emoji/ main.typ
+setup-hooks:
+	git config core.hooksPath .githooks
 build-example:
 	typst compile --pdf-standard a-2b --font-path lib/fplneu-otf/ --font-path lib/Noto_Color_Emoji/ example.typ
 dev-example:

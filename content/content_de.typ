@@ -2,52 +2,52 @@
 
 == Thema & Ziel
 
-In meiner ersten Präsentation hielt ich eine Sachrede zum Thema „Die Entwicklung der gesetzlichen Rentenversicherung: Status 2026 und Ausblick“.
-Das primäre Ziel meines Vortrags war es, das Publikum rein informativ und objektiv über die Faktoren aufzuklären, welche die Rentenhöhe und -stabilität bestimmen.
-Dabei wollte ich insbesondere die drohende Rentenlücke nach dem Wegfall der „Haltelinie“ im Jahr 2031 aufzeigen und die Notwendigkeit privater Ergänzungsvorsorge (von empfohlenen 15 %) darlegen. 
-Bereits beim Verfassen des Textes merkte ich, dass es eine Herausforderung darstellt, bei einem gesellschaftlich so brisanten Thema strikt sachlich zu bleiben und nicht unbeabsichtigt normativ oder meinungsbildend zu wirken, was laut Theorie ja bei einem Fachreferat unbedingt vermieden werden sollte.
+In meiner ersten Präsentation habe ich eine Sachrede zum Thema „Die Entwicklung der gesetzlichen Rentenversicherung: Status 2026 und Ausblick“ gehalten.
+Mein Ziel war es, das Publikum möglichst sachlich und verständlich darüber zu informieren, welche Faktoren die Rentenhöhe und die Stabilität des Systems beeinflussen.
+Dabei wollte ich vor allem die mögliche Rentenlücke nach dem Wegfall der „Haltelinie“ im Jahr 2031 zeigen und erklären, warum private Vorsorge wichtig ist.
+Schon beim Schreiben habe ich gemerkt, dass es bei so einem Thema gar nicht so leicht ist, wirklich neutral zu bleiben und nicht doch aus Versehen wertend zu klingen.
 
 == Selbsteinschätzung
 
-Inhaltlich bin ich mit meinem Vortrag sehr gut durchgekommen und konnte die komplexe Sachlage strukturiert vermitteln. Die konkrete Vortragssituation wurde für mich jedoch dadurch erschwert, dass ich meinen vorbereiteten Stichpunktzettel zu Hause vergessen hatte. Folglich musste ich auf meinen ausformulierten Fließtext zurückgreifen. Das machte es für mich deutlich schwieriger, frei zu sprechen und den Blickkontakt zum Publikum zu halten. Bei Versprechern merkte ich zudem, dass es im Fließtext weitaus komplizierter ist, den roten Faden schnell wiederzufinden, weshalb ich mich in manchen Passagen hätte kürzer fassen sollen.
-Ein weiterer Kritikpunkt an mir selbst betrifft das Zeitmanagement: Da ich die vorgegebene Rededauer vorab nicht exakt wusste und für mich mit 5 bis 7 Minuten geplant hatte, geriet die Rede insgesamt zu lang. Was meine Körpersprache angeht, habe ich mich sehr stark am Pult festgehalten, wodurch meine Mimik und Gestik etwas in den Hintergrund rückten. Bei einer reinen Sachrede, bei der die semantische Information im Vordergrund steht, ist eine reduzierte Gestik zwar eher vertretbar als bei einer meinungsstarken Rede, dennoch hätte eine freiere Haltung dem Vortrag gutgetan. Rückblickend wird mir klar, dass ich den Vortrag im Vorfeld noch intensiver hätte üben müssen.
+Inhaltlich bin ich mit meinem Vortrag eigentlich gut zurechtgekommen und konnte die komplexe Lage ganz ordentlich strukturieren. Schwieriger wurde es für mich aber in der Situation selbst, weil ich meinen Stichpunktzettel zu Hause vergessen hatte und deshalb auf den Fließtext ausweichen musste. Dadurch war es deutlich schwerer, frei zu sprechen und gleichzeitig den Blickkontakt zum Publikum zu halten. Wenn ich mich verhaspelt habe, habe ich außerdem gemerkt, dass man im Fließtext viel schneller den Faden verliert. Da hätte ich mich an manchen Stellen einfach kürzer fassen sollen.
+Ein weiterer Punkt ist das Zeitmanagement: Ich hatte die genaue Dauer vorher nicht und hatte mit 5 bis 7 Minuten geplant, dadurch wurde die Rede am Ende insgesamt zu lang. Auch bei der Körpersprache war ich noch zu steif. Ich habe mich ziemlich stark am Pult festgehalten, wodurch Mimik und Gestik fast untergegangen sind. Gerade bei einer Sachrede ist das zwar nicht ganz so schlimm wie bei einer Meinungsrede, aber etwas mehr Freiheit hätte dem Vortrag trotzdem gutgetan. Im Nachhinein merke ich, dass ich vorher einfach noch mehr hätte üben müssen.
 
 == Erhaltenes Feedback
 
-Das Feedback meiner Kommiliton*innen fiel sehr konstruktiv aus und deckte sich in weiten Teilen mit meiner eigenen Wahrnehmung. Positiv wurde vor allem die Struktur meiner Rede hervorgehoben; der rote Faden war für die Zuhörenden gut erkennbar.
-Hinsichtlich der Kritikpunkte merkte die Gruppe an, dass der Vortrag etwas zu lang war und ich künftig versuchen sollte, die Anzahl der Fachbegriffe zu reduzieren, um die Verständlichkeit (als wichtiges Kriterium der Rhetorik) noch weiter zu erhöhen. Zudem wurde mir gespiegelt, dass ich mich zu sehr am Pult „versteckt“ habe. Der klare Rat der Gruppe lautete, beim nächsten Mal unbedingt Karteikarten zu verwenden, um eine offenere Haltung einzunehmen und das Festhalten am Pult zu vermeiden.
-
+Das Feedback meiner Kommiliton*innen war sehr konstruktiv und hat sich in vielem mit meiner eigenen Einschätzung gedeckt. Positiv hervorgehoben wurde vor allem die Struktur meiner Rede; der rote Faden war für die Zuhörenden gut nachvollziehbar.
+Bei den Kritikpunkten wurde vor allem gesagt, dass der Vortrag etwas zu lang war und ich künftig weniger Fachbegriffe verwenden sollte, damit alles noch verständlicher wird. Außerdem kam zurück, dass ich mich zu sehr am Pult „versteckt“ habe. Der wichtigste Rat der Gruppe war deshalb, beim nächsten Mal unbedingt Karteikarten zu benutzen, damit ich freier auftrete und nicht am Pult klebe.
+#pagebreak()
 = Meinungsrede
 
 == Thema & Ziel
 
-In meiner zweiten Präsentation hielt ich eine Meinungsrede mit dem Titel „Das ETF-Depot – Warum Vermögensbildung noch lange keine Vorsorge ist“. Mein Kernargument war, dass ETFs zwar ein hervorragendes Instrument zum Vermögensaufbau darstellen, aber die existenzielle Sicherheit einer echten Altersvorsorge nicht ersetzen können. Dabei bin ich insbesondere auf das Langlebigkeitsrisiko, steuerliche und politische Unsicherheiten, die Verlockung der hohen Flexibilität sowie die Insolvenzrelevanz eingegangen. Das Ziel war es, das Publikum davon zu überzeugen, dass ein ETF-Depot lediglich die „Kür, aber niemals die Pflicht“ der eigenen Absicherung sein sollte.
+In meiner zweiten Präsentation habe ich eine Meinungsrede mit dem Titel „Das ETF-Depot – Warum Vermögensbildung noch lange keine Vorsorge ist“ gehalten. Meine Hauptaussage war, dass ETFs zwar super für den Vermögensaufbau sind, aber keine echte Altersvorsorge ersetzen können. Ich bin dabei vor allem auf das Langlebigkeitsrisiko, steuerliche und politische Unsicherheiten, die große Flexibilität und die Frage der Insolvenz eingegangen. Ziel war es, das Publikum davon zu überzeugen, dass ein ETF-Depot eher die Kür als die Pflicht bei der eigenen Absicherung ist.
 
 
 == Selbsteinschätzung
 
-Das Vorbereiten und Halten dieser Rede fiel mir deutlich leichter als die vorangegangene Sachrede. Da es sich um eine Meinungs- und Überzeugungsrede handelte, bei der auch an die Emotionen und Werte der Zuhörerschaft appelliert werden soll (Pathos), konnte ich viel mehr mit rhetorischen Bildern „malen“. Diese bildhafte und hörernahe Sprache machte den Vortrag für mich natürlicher. Inhaltlich bin ich gut und flüssig durchgekommen. Allerdings zeigte sich bei meiner Körpersprache das exakt gleiche Problem wie bei der ersten Rede: Ich habe mich erneut zu sehr am Pult festgehalten. Zudem war leider auch diese Rede in der Ausführung wieder etwas zu lang.
+Das Vorbereiten und Halten dieser Rede fiel mir deutlich leichter als die Sachrede davor. Weil es eine Meinungsrede war und man dabei auch stärker an Emotionen und Werte anknüpfen kann, konnte ich viel freier formulieren und mehr mit Bildern arbeiten. Das hat sich für mich natürlicher angefühlt. Inhaltlich bin ich auch ziemlich gut durchgekommen. Trotzdem hatte ich bei der Körpersprache wieder genau das gleiche Problem wie vorher: Ich habe mich zu sehr am Pult festgehalten. Außerdem war auch diese Rede am Ende wieder etwas zu lang.
 
 
 == Erhaltenes Feedback
 
-Das Feedback meiner Kommiliton*innen war sehr positiv, besonders was den klaren Aufbau und die Anschaulichkeit meiner Argumentation anging
-Ein absolutes Highlight für die Zuhörenden war mein „Ü-Ei“-Beispiel, mit dem ich das psychologische Risiko der schnellen Verfügbarkeit von ETF-Kapital in Anlehnung an das bekannte Marshmallow-Experiment veranschaulicht habe; dies wurde als sehr lustig und treffend empfunden
-Als Kritikpunkte wurden erneut die Länge der Rede sowie die Verwendung von zu vielen Fachbegriffen genannt, was die allgemeine Verständlichkeit leicht einschränkte
-Auch der Hinweis auf meine Körpersprache wiederholte sich deutlich: Die Gruppe riet mir abermals dringend, mich nicht am Pult zu „verstecken“, sondern stattdessen unbedingt Karteikarten zu nutzen, um eine freiere Haltung einnehmen zu können.
+Das Feedback meiner Kommiliton*innen war insgesamt sehr positiv, vor allem was den klaren Aufbau und die Anschaulichkeit meiner Argumentation angeht.
+Ein echtes Highlight für die Zuhörenden war mein „Ü-Ei“-Beispiel, mit dem ich das psychologische Risiko der schnellen Verfügbarkeit von ETF-Geld in Anlehnung an das Marshmallow-Experiment erklärt habe. Das kam wohl besonders lustig und passend rüber.
+Als Kritik wurde wieder genannt, dass die Rede zu lang war und ich zu viele Fachbegriffe benutzt habe, was die Verständlichkeit etwas eingeschränkt hat.
+Auch bei der Körpersprache gab es wieder denselben Hinweis: Ich sollte mich nicht am Pult „verstecken“, sondern lieber mit Karteikarten freier auftreten.
 #pagebreak()
 = Gesamtfazit
 
 == Wichtigste Erkenntnisse aus dem Feedback für beide Reden
-Meine zentralen Erkenntnisse aus den bisherigen praktischen Übungen betreffen vor allem die Vorbereitungsphase (den Ausarbeitungsschritt der Memoria) und die eigentliche Durchführung (Actio). Ich habe gemerkt, dass es für meine Sicherheit zwar hilfreich ist, eine Rede im ersten Schritt als vollständigen Fließtext auszuformulieren, um die Argumentation und Wortwahl zu schärfen. Um jedoch frei sprechen zu können, muss zwingend der Schritt zum Stichpunktzettel erfolgen. Meine künftige Übungsstrategie sieht daher so aus: Ich werde die ersten ein bis zwei Probedurchläufe mit dem Fließtext absolvieren, um die Formulierungen zu verinnerlichen. Danach zwinge ich mich, ausschließlich mit dem Stichpunktzettel weiterzuüben. Das verhindert, dass ich bei kleinen Versprechern ins Stocken gerate und den Faden verliere.
+Meine wichtigsten Erkenntnisse aus den bisherigen Übungen betreffen vor allem die Vorbereitung und die eigentliche Durchführung der Rede. Ich habe gemerkt, dass es mir zwar Sicherheit gibt, eine Rede zuerst als Fließtext auszuschreiben, weil ich so Argumentation und Wortwahl besser durchdenken kann. Wenn ich aber wirklich frei sprechen will, muss ich danach auf einen Stichpunktzettel umsteigen. Meine neue Strategie ist deshalb: Zuerst ein bis zwei Durchläufe mit dem Fließtext, damit ich die Formulierungen im Kopf habe. Danach übe ich nur noch mit Stichpunkten. So gerate ich bei kleinen Versprechern nicht direkt aus dem Konzept.
 
-Eine weitere wichtige Erkenntnis betrifft meine Körpersprache (extraverbale Merkmale) und den Umgang mit dem Rednerpult. Mir ist bewusst geworden, dass ein Pult nicht grundsätzlich sinnvoll oder notwendig ist – es kommt ganz auf die gewünschte Wirkung und die Redeart an. Wenn ich mich unbewusst daran festhalte, baut es eine visuelle Barriere auf, schränkt meine Gestik ein und schwächt meine Präsenz (Ethos). Ich muss lernen, das Pult nur dann zu nutzen, wenn die Situation eine starke formelle Distanz erfordert, anstatt es als "Versteck" zu gebrauchen. 
+Eine weitere wichtige Erkenntnis betrifft meine Körpersprache und den Umgang mit dem Rednerpult. Mir ist klar geworden, dass ein Pult nicht automatisch hilfreich ist, sondern wirklich davon abhängt, welche Wirkung man erzielen will und um welche Redeart es geht. Wenn ich mich daran festhalte, wirkt das schnell wie eine Barriere, meine Gestik wird eingeschränkt und ich wirke insgesamt weniger präsent. Ich sollte das Pult also nur dann nutzen, wenn es in der Situation wirklich Sinn ergibt, und nicht einfach als "Versteck".
 
 == Konkrete Vorhaben für die Abschlussprüfung am 15.06.
 
-Da ich in der praktischen Zertifikatsprüfung eine Meinungsrede zu einem erst kurz vorher bekannt gegebenen Thema halten muss, werde ich gar nicht die Zeit haben, einen Fließtext zu verfassen. Ich nehme mir daher konkret vor, die Vorbereitungszeit effektiv zu nutzen, um eine klare Gliederung direkt auf einem Stichpunktzettel zu entwerfen und mich voll auf das freie Sprechen zu verlassen. 
+Da ich in der praktischen Zertifikatsprüfung eine Meinungsrede zu einem erst kurz vorher bekannten Thema halten muss, werde ich gar nicht die Zeit haben, einen Fließtext zu schreiben. Ich nehme mir deshalb vor, die Vorbereitungszeit sinnvoll zu nutzen, direkt eine klare Gliederung auf den Stichpunktzettel zu bringen und mich beim Vortrag auf freies Sprechen zu verlassen.
 
-Zusätzlich werde ich in der Prüfungssituation ganz bewusst auf das Pult verzichten oder mich zumindest deutlich daneben positionieren. Durch den freien Stand im Raum zwinge ich mich selbst zu einer offenen Haltung, kann den Blickkontakt zum Publikum besser halten und meine Argumente durch eine natürliche Mimik und Gestik unterstreichen. Nicht zuletzt werde ich mein Zeitgefühl schärfen, um den vorgegebenen Rahmen von 5 bis 10 Minuten nicht zu sprengen
+Zusätzlich werde ich in der Prüfung bewusst auf das Pult verzichten oder mich zumindest deutlich daneben stellen. Durch den freieren Stand im Raum zwinge ich mich zu einer offeneren Haltung, kann den Blickkontakt besser halten und meine Argumente mit natürlicher Mimik und Gestik unterstützen. Außerdem will ich mein Zeitgefühl verbessern, damit ich den Rahmen von 5 bis 10 Minuten nicht überschreite.
 
 #pagebreak()
 
@@ -55,21 +55,21 @@ Zusätzlich werde ich in der Prüfungssituation ganz bewusst auf das Pult verzic
 
 == Körpersprache & Präsenz
 
-Leonie erzielt durch ihre zentrale Position vor der Tafel eine sofortige, starke Präsenz im Raum. Ihr Stand ist weitgehend stabil und beidbeinig geerdet, wenngleich ein leicht rhythmisches Wippen von einem Bein auf das andere eine unterschwellige Anspannung offenbart. Herausragend ist der konstante, verbindliche Blickkontakt zum Publikum. Ihre offene, zweihändige Gestik auf Brusthöhe unterstützt die Argumentation harmonisch, während eine lebendige und freundliche Mimik schnell eine sympathische Zugewandtheit herstellt.
+Leonie hat durch ihre zentrale Position vor der Tafel direkt eine starke Präsenz im Raum. Ihr Stand wirkt insgesamt stabil und sicher, auch wenn das leichte Wippen von einem Bein aufs andere eine gewisse Anspannung verrät. Besonders positiv ist der konstante Blickkontakt zum Publikum. Ihre offene, zweihändige Gestik auf Brusthöhe passt gut zur Argumentation, und ihre lebendige, freundliche Mimik wirkt sehr zugewandt.
 
 == Artikulation, Stimme & Dynamik
 
-Das Sprechtempo ist moderat und gut nachvollziehbar; Pausen werden gezielt nach Kernaussagen als Strukturierungsmittel eingesetzt. Lediglich bei hoher inhaltlicher Dichte beschleunigt sich der Vortrag vereinzelt leicht. Der Sprechfluss ist flüssig und nahezu frei von Häsitationen wie „Ähm“-Lauten. Dank einer präzisen Artikulation und einer gut gestützten, raumfüllenden Lautstärke wirkt die Stimme durchgehend fest, textangemessen und tragfähig.  Gesamteindruck: Hohe stimmliche Stimmigkeit und rhetorische Überzeugungskraft. 
+Das Sprechtempo ist angenehm und gut nachvollziehbar; Pausen setzt sie gezielt nach wichtigen Aussagen ein. Nur bei inhaltlich dichten Stellen wird sie stellenweise etwas schneller. Der Sprechfluss ist flüssig und fast frei von Häsitationen wie „Ähm“. Durch die klare Artikulation und die gut gestützte Lautstärke wirkt die Stimme durchgehend sicher und tragfähig. Insgesamt ergibt sich ein sehr stimmiger und überzeugender Eindruck.
 
 == Gliederung & Verständlichkeit
 
-Die Makrostruktur folgt einem transparenten, klassischen Gliederungsschema aus Einleitung, Hauptteil und Schluss. Die Satzstruktur ist bewusst kurz, prägnant und parataktisch gehalten, was dem Publikum das auditive Verstehen erleichtert. Durch den Verzicht auf Fachjargon bleibt die Rede einfach und adressatengerecht. Ein gelungener Hörerbezug wird über integrative Pronomen („wir“) und rhetorische Fragen hergestellt, was die Wirksamkeit der Argumente steigert. 
+Die Gliederung folgt einem klaren Schema aus Einleitung, Hauptteil und Schluss. Die Sätze sind kurz und prägnant gehalten, was das Zuhören erleichtert. Durch den Verzicht auf Fachjargon bleibt die Rede einfach und passend für das Publikum. Der Hörerbezug gelingt gut über das Wort „wir“ und rhetorische Fragen, wodurch die Argumente noch stärker wirken.
 
 == Vortragsweise & Mediennutzung
 
-Leonie nutzt ein gut strukturiertes Stichwortkonzept auf Moderationskarten. Sie trägt die Rede weitgehend frei vor und meidet das Ablesen von Fließtext. Der Blick wandert nur in kurzen, natürlichen Pausen zur Orientierung nach unten, wodurch der lebendige Charakter der Präsentation vollständig gewahrt bleibt. Die Tafel im Hintergrund dient primär als stimmiger räumlicher Rahmen.
+Leonie nutzt ein gut strukturiertes Stichwortkonzept auf Moderationskarten. Sie trägt die Rede weitgehend frei vor und liest nicht einfach einen Fließtext ab. Der Blick geht nur in kurzen, natürlichen Momenten nach unten, wodurch die Präsentation lebendig bleibt. Die Tafel im Hintergrund wirkt dabei eher als passender Rahmen.
 
 == Inhalte
-- *Ethos*: Durch ihr souveränes Auftreten gelingt eine kompetente Selbstdarstellung, die die Argumentation integer und glaubwürdig macht.  
-- *Pathos*: Der Hörerbezug greift die Relevanz des Themas für die Lebensrealität des Publikums auf und erzeugt emotionale Zugänglichkeit.
-- *Logos*: Die Argumentation ist dialektisch sauber und logisch stringent aufgebaut. Der inhaltliche Anspruch erfüllt das Niveau der Zertifikatsstufe vollständig.  
+- *Ethos*: Durch ihr souveränes Auftreten wirkt sie kompetent und glaubwürdig.
+- *Pathos*: Der Bezug zum Publikum macht das Thema greifbar und emotional zugänglich.
+- *Logos*: Die Argumentation ist klar und logisch aufgebaut. Inhaltlich passt das sehr gut zum Niveau der Zertifikatsstufe.
